@@ -64,14 +64,14 @@ pytest-mock==3.7.0
     # via -r requirements.in
 pytest-watch==4.2.0
     # via -r requirements.in
-requests==2.27.1
+requests==2.32.5
     # via coveralls
 tomli==2.0.1
     # via
     #   coverage
     #   pep517
     #   pytest
-urllib3==1.26.9
+urllib3==2.8.0
     # via requests
 watchdog==2.1.7
     # via pytest-watch
